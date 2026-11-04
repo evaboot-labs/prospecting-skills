@@ -1,0 +1,14 @@
+{
+  "name": "evaboot-labs-prospecting-skills",
+  "owner": { "name": "Evaboot", "url": "https://evaboot.com" },
+  "metadata": {
+    "description": "A curated, pinned set of open-source Claude skills for B2B prospecting, run as one loop on real leads."
+  },
+  "plugins": [
+    {
+      "name": "prospecting-skills",
+      "source": "./",
+      "description": "Six open-source prospecting skills from Evaboot, Anthropic and Prosyo, pinned and chained on real Sales Navigator leads: ICP, export, qualify, rank by buying signal, first touch."
+    }
+  ]
+}
