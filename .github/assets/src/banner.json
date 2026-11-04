@@ -1,0 +1,7 @@
+{"layout": "flow", "eyebrow": "evaboot-labs · prospecting-skills", "headline": "Seven skills. One prospect loop.",
+ "subline": "Open-source Claude skills, pinned and chained on real Sales Navigator leads.",
+ "nodes": [{"label": "01 · Leads", "title": "Evaboot MCP", "caption": "Exports the leads you approve"},
+           {"label": "02 · Qualify", "title": "qualify-leads", "caption": "In, Out or Can't tell, per lead"},
+           {"label": "03 · Rank", "title": "Signal scoring", "caption": "Signals weighted by freshness"},
+           {"label": "04 · Write", "title": "First touch", "caption": "Drafts to review, nothing sent"}],
+ "spec": "skills from <em>Evaboot · Anthropic · Prosyo</em> · pinned in SKILLS.md"}

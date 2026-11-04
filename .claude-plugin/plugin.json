@@ -1,0 +1,13 @@
+{
+  "name": "prospecting-skills",
+  "version": "1.0.0",
+  "description": "Six open-source prospecting skills from Evaboot, Anthropic and Prosyo, pinned and chained on real Sales Navigator leads: ICP, export, qualify, rank by buying signal, first touch.",
+  "author": { "name": "Evaboot", "url": "https://evaboot.com" },
+  "homepage": "https://evaboot.com/blog/claude-skills-for-sales",
+  "repository": "https://github.com/evaboot-labs/prospecting-skills",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://evaboot.com/privacy-policy",
+  "keywords": ["claude-skills", "prospecting", "sales", "sales-navigator", "lead-generation", "agent-skills"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
